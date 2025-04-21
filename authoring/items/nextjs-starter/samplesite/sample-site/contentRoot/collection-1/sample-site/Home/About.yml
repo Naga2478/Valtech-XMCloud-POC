@@ -1,0 +1,77 @@
+﻿---
+ID: "3ba71b77-2460-4418-86a8-6699cf2641d5"
+Parent: "00d31fc1-485a-44b7-acf5-a0d0f463e254"
+Template: "c95e9939-43a0-4c23-a382-ccb292147477"
+Path: "/sitecore/content/collection-1/sample-site/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C4C7D6B1-77FB-4D98-AEC3-7DD0E332C8DF}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "58d341f7-2c30-4dc8-991b-3bfb8c557b2c"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{56832B7C-348C-4001-A519-7CB48E798859}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bA78255E3-C5A8-41F9-9270-BC8AC41457ED%7d%7c%7bCE395644-D9C9-481D-A8EA-AC0C130D975B%7d%7c%7b30D3F3F0-4DCE-4991-94EE-68FDBD5BCF01%7d%7c%7bFF396552-57D4-46A1-9207-2B500C79F111%7d%7c%7b754A9C54-4D0A-4D92-9746-3371A03A2D3A%7d%7c%7b33722F52-982B-4333-8155-65AA500D6B0E%7d%7c%7b0925E5E5-0FF8-4D56-A38B-16135FBECB34%7d%7c%7b4E6BED2C-2C3B-46BB-B5C9-C180612F48CB%7d%7c%7b17747CDE-3517-4213-99E7-C5A28A8F39B1%7d%7c%7bFC50750B-F0B1-4657-9BE9-D2C4B8F201FD%7d%7c%7bF68FCEC0-4172-4D55-B026-3C0BC359C5BF%7d%7c%7b90BF392C-4BFC-462A-A3A4-3BABBE05BEA1%7d%7c%7bA13298A6-0F53-41CA-8ACC-605E8B561F9D%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{4148FAAB-0ADD-42BE-A65A-631AB8E6F2B1}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b7E198923-6E00-4931-8845-11A5162AE1FA%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250416T102130Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Aboutus
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "6ddea92c-447e-45ba-810a-b0c67785cc52"
+      Hint: Title
+      Value: About
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2f5e4ef-3bfb-4e3a-aaa0-b7904fe90799"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rachit.bansal@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250417T090155Z

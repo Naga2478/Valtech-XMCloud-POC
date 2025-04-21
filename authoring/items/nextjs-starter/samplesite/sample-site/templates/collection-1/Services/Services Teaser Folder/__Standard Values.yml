@@ -1,0 +1,36 @@
+﻿---
+ID: "4a0b283e-3c3f-44f2-ac0e-f3a24e5b1a07"
+Parent: "3fd0c03d-d256-4ff3-8e02-9ad97def003b"
+Template: "3fd0c03d-d256-4ff3-8e02-9ad97def003b"
+Path: "/sitecore/templates/Project/collection-1/Services/Services Teaser Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C2D4D5FE-4AEF-4B77-B2F1-876A2497005D}
+    {3FD0C03D-D256-4FF3-8E02-9AD97DEF003B}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "def28250-7b46-4d8a-bd91-0bcc5e9bcccf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "deb3c7f4-5497-4732-89db-4238cc2eca0b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rutvik.pankhania@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250417T122929Z

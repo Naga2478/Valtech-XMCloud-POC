@@ -1,0 +1,71 @@
+﻿---
+ID: "527db3e2-0ac8-4348-8508-6bc224412b42"
+Parent: "84a07917-7d85-499b-a311-84eb50b997e9"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/collection-1/sample-site/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "059de046-7e0e-4508-9341-5670d7b618cb"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{4235997C-0A83-4291-9C24-22E371EF885D}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b84F10C75-133C-4D1D-8CC5-ECE1D7D0F260%7d%7c%7b00181A77-68A9-4E04-A58E-9981C17EDEA4%7d%7c%7bA78255E3-C5A8-41F9-9270-BC8AC41457ED%7d%7c%7bCE395644-D9C9-481D-A8EA-AC0C130D975B%7d%7c%7b30D3F3F0-4DCE-4991-94EE-68FDBD5BCF01%7d%7c%7bFF396552-57D4-46A1-9207-2B500C79F111%7d%7c%7b754A9C54-4D0A-4D92-9746-3371A03A2D3A%7d%7c%7b33722F52-982B-4333-8155-65AA500D6B0E%7d%7c%7b0925E5E5-0FF8-4D56-A38B-16135FBECB34%7d%7c%7b4E6BED2C-2C3B-46BB-B5C9-C180612F48CB%7d%7c%7b17747CDE-3517-4213-99E7-C5A28A8F39B1%7d%7c%7bFC50750B-F0B1-4657-9BE9-D2C4B8F201FD%7d%7c%7bF68FCEC0-4172-4D55-B026-3C0BC359C5BF%7d%7c%7b90BF392C-4BFC-462A-A3A4-3BABBE05BEA1%7d%7c%7bA13298A6-0F53-41CA-8ACC-605E8B561F9D%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{09656E83-52A3-4FFD-9005-EDAFD2852C04}"
+          p:after="r[@uid='{4235997C-0A83-4291-9C24-22E371EF885D}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bC0D9E7A0-781B-4D14-B531-2D1BAA2DF7D4%7d&amp;FieldNames=%7b7E198923-6E00-4931-8845-11A5162AE1FA%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{8C2691CB-693A-43DE-8C28-7B4BF6B0B64C}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bC0D9E7A0-781B-4D14-B531-2D1BAA2DF7D4%7d&amp;FieldNames=%7b7E198923-6E00-4931-8845-11A5162AE1FA%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250416T102132Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76d40a76-3b07-47f0-9294-3bd68161e98a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250416T102141Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "396d5d9b-cf2d-4743-8e68-61330fd8b9b0"
+Parent: "d9af1416-6235-4ea4-a680-8e410594f150"
+Template: "c2d4d5fe-4aef-4b77-b2f1-876a2497005d"
+Path: "/sitecore/content/collection-1/sample-site/Data/Services Teaser/Service Teaser Homepage"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250417T130656Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rutvik.pankhania@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rutvik.pankhania@valtech.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67d361b3-8a62-4cbd-b34a-55fcd451621d"
+    - ID: "adfbff8b-7688-4e73-a5ba-4a27de337f86"
+      Hint: Services
+      Value: |
+        {5D55755E-2499-4937-89B4-CA04BDC45268}
+        {1401114B-E88D-4A21-8D06-51C1BB96ABFF}
+        {2B2E821D-94E7-4B03-B770-E478EA6E3DDC}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rutvik.pankhania@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250417T171015Z

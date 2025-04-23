@@ -1,5 +1,5 @@
 import React from 'react';
-import { ComponentParams, Field, Text as JssText, NextImage as JssImage } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentParams, Field, ImageField, Text as JssText, NextImage as JssImage } from '@sitecore-jss/sitecore-jss-nextjs';
 
 
 export interface ServiceFields {

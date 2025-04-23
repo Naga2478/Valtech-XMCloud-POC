@@ -175,8 +175,9 @@
           "type": "color"
         },
         "500": {
-          "value": "#ed8936",
-          "type": "color"
+          "value": "#48bb78",
+          "type": "color",
+          "description": "orange color"
         },
         "600": {
           "value": "#dd6b20",

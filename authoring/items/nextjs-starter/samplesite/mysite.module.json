@@ -1,34 +1,39 @@
 {
-    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
-    "namespace": "sample-site",
-    "items": {
-        "path": "sample-site",
-        "includes": [
-            {
-                "name": "layout",
-                "path": "/sitecore/layout/Placeholder Settings/Project/collection-1",
-                "allowedPushOperations": "CreateUpdateAndDelete"
-            },
-            {
-                "name": "renderings",
-                "path": "/sitecore/layout/Renderings/Project/collection-1",
-                "allowedPushOperations": "CreateUpdateAndDelete"
-            },
-            {
-                "name": "templates",
-                "path": "/sitecore/templates/Project/collection-1",
-                "allowedPushOperations": "CreateUpdateAndDelete"
-            },
-            {
-                "name": "contentRoot",
-                "path": "/sitecore/content/collection-1",
-                "allowedPushOperations": "CreateUpdateAndDelete"
-            },
-            {
-                "name": "media",
-                "path": "/sitecore/media library/Project/collection-1",
-                "allowedPushOperations": "CreateUpdateAndDelete"
-            }
-        ]
-    }
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "sample-site",
+  "items": {
+    "path": "sample-site",
+    "includes": [
+      {
+        "name": "layout",
+        "path": "/sitecore/layout/Placeholder Settings/Project/collection-1",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Project/collection-1",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Project/collection-1",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "contentRoot",
+        "path": "/sitecore/content/collection-1",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "media",
+        "path": "/sitecore/media library/Project/collection-1",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "languages",
+        "path": "/sitecore/system/Languages",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
 }

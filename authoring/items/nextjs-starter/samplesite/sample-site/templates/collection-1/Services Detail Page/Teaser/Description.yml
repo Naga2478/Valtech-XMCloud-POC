@@ -2,7 +2,7 @@
 ID: "cf9c2768-464b-400f-8d4c-40935b9399d0"
 Parent: "6febb333-e745-43e8-8dd2-f4ba5a1f2e79"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Project/collection-1/Services Detail/Teaser/Description"
+Path: "/sitecore/templates/Project/collection-1/Services Detail Page/Teaser/Description"
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type

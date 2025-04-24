@@ -5,6 +5,12 @@ Template: "c95e9939-43a0-4c23-a382-ccb292147477"
 Path: "/sitecore/content/collection-1/sample-site/Home"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C95E9939-43A0-4C23-A382-CCB292147477}
+    {DAD2114F-837D-453B-94B4-B0BAB83B1FC5}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: 
@@ -14,7 +20,7 @@ SharedFields:
     <image mediaid="{0C2D8067-F081-4733-AA68-A86BBEC31F9C}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b1afcc8f-26ca-4f42-aaca-ff21074db584"
+  Value: "7e5d9e96-c3e8-4668-a302-65beb39f6ff7"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -73,6 +79,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250416T102058Z
@@ -92,11 +101,11 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2ba2c200-3669-419b-a772-d290e827cf76"
+      Value: "bf6a8e24-a881-443c-a500-75b7baac23b5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\udit.gupta@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250417T145407Z
+      Value: 20250424T041845Z

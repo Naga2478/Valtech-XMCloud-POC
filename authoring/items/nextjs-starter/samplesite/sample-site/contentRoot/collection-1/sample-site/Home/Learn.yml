@@ -6,14 +6,14 @@ Path: "/sitecore/content/collection-1/sample-site/Home/Learn"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: 500
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{9F9BFFB3-1662-443E-8F83-011C21E2A224}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "87bab385-70a6-4f74-8053-1d40b3a1e807"
+  Value: "b8584300-7ec2-4574-bbb4-cea30334c815"
 Languages:
 - Language: en
   Versions:
@@ -85,11 +85,11 @@ Languages:
       Value: Learn
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1512766d-6c67-4a15-9b01-b03f22ec8fc4"
+      Value: "2c1231b8-6f86-4beb-9d7e-7a93e237b038"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rachit.bansal@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250417T090155Z
+      Value: 20250424T043622Z

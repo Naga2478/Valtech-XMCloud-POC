@@ -1,8 +1,8 @@
 ﻿---
-ID: "6febb333-e745-43e8-8dd2-f4ba5a1f2e79"
-Parent: "fae3f49f-719a-4827-a5f0-26b45e01dc3d"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: "/sitecore/templates/Project/collection-1/Services Detail/Teaser"
+ID: "feea98eb-68e8-423e-902e-61b6c893565e"
+Parent: "109c1f92-062d-47a0-be2a-d8b9212ad05e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/collection-1/sample-site/System/7/6/4"
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250417T122435Z
+      Value: 20250423T111108Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\rutvik.pankhania@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\rutvik.pankhania@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c28d9e21-b4b7-460b-885f-6a70f5569dac"
+      Value: "b33f008e-db2c-4a54-8c16-f4c88fb8e51c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rutvik.pankhania@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250417T122435Z
+      Value: 20250423T111108Z

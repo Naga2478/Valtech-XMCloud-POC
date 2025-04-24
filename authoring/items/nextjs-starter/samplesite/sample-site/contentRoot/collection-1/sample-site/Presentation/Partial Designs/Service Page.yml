@@ -1,0 +1,23 @@
+﻿---
+ID: "df81e7e2-54ee-4f83-943d-36d5928f8e61"
+Parent: "84a07917-7d85-499b-a311-84eb50b997e9"
+Template: "f663833f-6e6c-4a62-a352-defd519cef7c"
+Path: "/sitecore/content/collection-1/sample-site/Presentation/Partial Designs/Service Page"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250424T035742Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6dd058c2-5733-4ca6-a2ba-6f2b5bf35a13"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250424T035742Z

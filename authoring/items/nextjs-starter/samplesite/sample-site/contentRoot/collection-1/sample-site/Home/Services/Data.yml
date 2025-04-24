@@ -3,6 +3,13 @@ ID: "b6b50e43-e7b4-4cf6-aa79-fb2ad6cb49c9"
 Parent: "788baeea-f7d0-4c72-8f86-5642e327d95c"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/collection-1/sample-site/Home/Services/Data"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a2c9a26a-48ac-499e-831c-947f051f6e25"
 Languages:
 - Language: en
   Versions:
@@ -21,11 +28,11 @@ Languages:
         sitecore\rutvik.pankhania@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5a4a8e4e-e44d-4485-917d-c0fe5a8784fd"
+      Value: "44962526-54a0-435e-99a4-4d04b98ded60"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rutvik.pankhania@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250417T131340Z
+      Value: 20250424T043559Z

@@ -36,6 +36,9 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Products
+    - ID: "6526ebe8-cb6e-4196-9f02-4406a7b939e8"
+      Hint: Content
+      Value: orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
     - ID: "6ddea92c-447e-45ba-810a-b0c67785cc52"
       Hint: Title
       Value: Products
@@ -44,11 +47,14 @@ Languages:
       Value: Products
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9ef15785-90d4-464e-ae53-79c5ba9fad59"
+      Value: "d2957dd2-bbe3-40ac-9eaf-b8c196f1fe37"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rutvik.pankhania@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "cf9c2768-464b-400f-8d4c-40935b9399d0"
+      Hint: Description
+      Value: Products Development orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250417T131315Z
+      Value: 20250424T043115Z

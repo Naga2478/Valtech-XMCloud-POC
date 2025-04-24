@@ -1,0 +1,48 @@
+﻿---
+ID: "7642e071-7b9b-4a1d-98d3-ff36e23b7882"
+Parent: "788baeea-f7d0-4c72-8f86-5642e327d95c"
+Template: "fae3f49f-719a-4827-a5f0-26b45e01dc3d"
+Path: "/sitecore/content/collection-1/sample-site/Home/Services/Automation"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{34703AF7-D1D5-449D-AF55-7FEAB571CF53}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250417T130620Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Automation
+    - ID: "6526ebe8-cb6e-4196-9f02-4406a7b939e8"
+      Hint: Content
+      Value: |
+        <h3>Service Details</h3>
+        Resource orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Resource orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Resource orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Resource orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Resource orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+    - ID: "6ddea92c-447e-45ba-810a-b0c67785cc52"
+      Hint: Title
+      Value: Automation
+    - ID: "765fbb92-3638-49a8-9303-8705fc1c0635"
+      Hint: Heading
+      Value: Automation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78b363ce-0a0e-4768-ae5f-8d2ff6c2531e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "c9ad5cbd-a8b4-4aef-ab2c-d7c14801194b"
+      Hint: Image
+      Value: 
+    - ID: "cf9c2768-464b-400f-8d4c-40935b9399d0"
+      Hint: Description
+      Value: AUtomation  orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250424T042451Z

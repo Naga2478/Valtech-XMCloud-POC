@@ -1,0 +1,16 @@
+name: Build Design Tokens on Change
+
+on:
+  push:
+    paths:
+      - 'headapps/nextjs-starter/src/token/**'
+      - 'headapps/nextjs-starter/src/token/figma-tokens.json'
+
+jobs:
+  build_tokens:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🎨 Build Tokens
+        working-directory: headapps/nextjs-starter
+        run: npm run build:tokens

@@ -1,0 +1,36 @@
+﻿---
+ID: "a3e05f51-76a4-4476-80ca-58fe6435b212"
+Parent: "f1475408-8e71-421e-ad26-700422b95449"
+Template: "f1475408-8e71-421e-ad26-700422b95449"
+Path: "/sitecore/templates/Project/collection-1/Services/HeroBanner Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B8F7E720-1793-4AE4-A1EC-BAF749C19CD6}
+    {F1475408-8E71-421E-AD26-700422B95449}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d37dde49-e73d-42df-8fd9-6584902086cc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a34b2d9-4d5c-43eb-9c01-77e7bf96ffe9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250425T041300Z

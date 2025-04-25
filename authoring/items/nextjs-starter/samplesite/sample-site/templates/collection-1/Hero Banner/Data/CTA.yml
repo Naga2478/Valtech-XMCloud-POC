@@ -1,21 +1,18 @@
 ﻿---
-ID: "97a0d184-a4ee-49f4-b34c-e49ec4d66cdc"
+ID: "ffc57792-f088-452a-b9db-51964cb32b01"
 Parent: "46134291-18fc-45cb-a405-3c54a426226d"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Project/collection-1/Hero Banner/Data/Investors"
+Path: "/sitecore/templates/Project/collection-1/Hero Banner/Data/CTA"
 SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: "query:$site/Data/Investor Resources/*[@@templatename='Hero Banner']"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Multilist
+  Value: General Link
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 400
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "32adbd32-616a-4c6c-92bc-7d95a4ecfbdb"
+  Value: "e8f956e8-f8f3-418c-b0b4-12b6b895204c"
 Languages:
 - Language: en
   Versions:
@@ -23,22 +20,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250423T070548Z
+      Value: 20250425T041436Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\udit.gupta@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\udit.gupta@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ee53618a-29f3-4069-8636-d9a9444d3005"
+      Value: "cae5509a-e006-4383-9882-b8994d58c05f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\udit.gupta@valtech.com
+        sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250423T071233Z
+      Value: 20250425T041436Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "d6819674-6d40-49a7-b1c3-088823b7344b"
+Parent: "b6b50e43-e7b4-4cf6-aa79-fb2ad6cb49c9"
+Template: "b8f7e720-1793-4ae4-a1ec-baf749c19cd6"
+Path: "/sitecore/content/collection-1/sample-site/Home/Services/Data/HeroBanner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12c25420-30ea-40e8-8bdb-cda5378e8bab"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{0D9C2383-BC1F-48EF-81E4-DD8307BC6E55}" />
+    - ID: "18576a09-ff4a-4275-92c8-7bd7d0a84023"
+      Hint: BannerHeading
+      Value: Welcome to XM CLoud
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250425T041603Z
+    - ID: "40a4fae0-2450-427d-a1fa-06f10671ba55"
+      Hint: BannerCTA
+      Value: |
+        <link text="Explore" linktype="external" url="https://doc.sitecore.com/xmc" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "88088e7d-29bc-40b6-b3ce-e7a8719472d8"
+      Hint: BannerContent
+      Value: Sitecore Experience Manager Cloud, or XM Cloud, is a headless content management system that is a foundation for a composable digital experience platform (DXP) centered around content.XM Cloud includes the latest versions of Experience Manager, Sitecore Experience Accelerator (SXA), Sitecore Next.js SDK, Experience Edge, and the Pages content editor. Because XM Cloud is a SaaS solution, Sitecore takes care of hosting, monitoring, and maintenance so you can focus on creating new functionality and integrating other composable solutions.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc946668-24b9-4909-b9af-03be7adb9fec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250425T042116Z

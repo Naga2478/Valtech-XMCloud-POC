@@ -29,18 +29,49 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: <h4>Providing wholesale product basics to the best skate brands</h4>
+      Value: <h4>Providing wholesale product basics to the best skate brands1</h4>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08239ae7-bc15-4a2f-b57e-5f7ee2c46f61"
+      Value: "c05331b0-e565-4be7-9e45-d7265841efff"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250423T084102Z
+      Value: 20250425T043905Z
 - Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250416T102136Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: <h4>Providing wholesale product basics to the best skate brands in UK</h4>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd9775bc-5d09-4027-9f52-4605598c1f20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250424T060942Z
+- Language: "en-US"
   Versions:
   - Version: 1
     Fields:
@@ -57,14 +88,14 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: <h4>Providing wholesale product basics to the best skate brands</h4>
+      Value: <h4>Providing wholesale product basics to the best skate brands in UK</h4>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3f91313c-5ae5-4367-a6fc-4cd7bf282891"
+      Value: "6564e3ab-d44b-4c46-b292-2d2d05db0e21"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250424T055546Z
+      Value: 20250425T050644Z

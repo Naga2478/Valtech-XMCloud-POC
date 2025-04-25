@@ -49,10 +49,10 @@ SharedFields:
   Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
 - ID: "d0ce707c-342f-4c02-ac0a-edb21346dde4"
   Hint: SupportedLanguages
-  Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}|{A31CD246-7FC2-46D2-9DCE-CCE3B32604EB}"
+  Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}|{A31CD246-7FC2-46D2-9DCE-CCE3B32604EB}|{C0838FD5-FA5B-4803-8D7D-0A5403D489C6}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "4c55f157-b61a-4bae-be38-d167259af5f5"
+  Value: "6bdafec8-1808-4a1f-9ada-597266658a6f"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
   Value: "{0EB5ADB7-86AB-482C-91F9-D57F0BDECAB8}"
@@ -108,7 +108,7 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "27cc51b8-8bf4-4b08-8ab0-90c340a9c6f5"
+      Value: "a1d75f73-be0b-4756-9c6a-4ff831435edd"
     - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
       Hint: ComponentDataSourceTemplates
       Value: "{19C3CB7F-CB05-4D8F-820D-AE1983A62246}"
@@ -118,4 +118,32 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250424T055621Z
+      Value: 20250425T050717Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250416T102059Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "309e4ddc-fc3f-41f1-8072-d452084aa586"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: "{19C3CB7F-CB05-4D8F-820D-AE1983A62246}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250425T050716Z

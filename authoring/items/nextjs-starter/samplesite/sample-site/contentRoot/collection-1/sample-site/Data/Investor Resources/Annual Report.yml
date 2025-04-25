@@ -23,10 +23,8 @@ Languages:
       Hint: __Revision
       Value: "844e8f08-4a29-44c4-ace8-398a0a43b557"
     - ID: "97a0d184-a4ee-49f4-b34c-e49ec4d66cdc"
-      Hint: Investors
-      Value: |
-        {C194D0DB-63AA-4173-ADBB-29EA13050D0B}
-        {2B21A845-2C27-417E-9757-E2AC552DD72A}
+      Hint: BannerHeading
+      Value: "{C194D0DB-63AA-4173-ADBB-29EA13050D0B}|{2B21A845-2C27-417E-9757-E2AC552DD72A}"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -53,10 +51,8 @@ Languages:
       Hint: __Revision
       Value: "5be9abb8-e0e7-40dc-97f3-2400cd934478"
     - ID: "97a0d184-a4ee-49f4-b34c-e49ec4d66cdc"
-      Hint: Investors
-      Value: |
-        {C194D0DB-63AA-4173-ADBB-29EA13050D0B}
-        {2B21A845-2C27-417E-9757-E2AC552DD72A}
+      Hint: BannerHeading
+      Value: "{C194D0DB-63AA-4173-ADBB-29EA13050D0B}|{2B21A845-2C27-417E-9757-E2AC552DD72A}"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -64,3 +60,31 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20250424T055553Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250423T070711Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\udit.gupta@valtech.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e356d2ad-4604-4e6f-819e-fb932f75d895"
+    - ID: "97a0d184-a4ee-49f4-b34c-e49ec4d66cdc"
+      Hint: BannerHeading
+      Value: "{C194D0DB-63AA-4173-ADBB-29EA13050D0B}|{2B21A845-2C27-417E-9757-E2AC552DD72A}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250425T050651Z

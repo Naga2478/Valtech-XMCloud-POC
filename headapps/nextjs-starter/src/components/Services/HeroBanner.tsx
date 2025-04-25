@@ -1,19 +1,48 @@
 import React from 'react';
-import { ComponentParams, ComponentRendering } from '@sitecore-jss/sitecore-jss-nextjs';
+import {
+  Text,
+  RichText as JssRichText,
+  withDatasourceCheck,
+  ImageField,
+  Field,
+} from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentProps } from 'lib/component-props';
+import NextLink from 'next/link';
 
-interface HeroBannerProps {
-  rendering: ComponentRendering & { params: ComponentParams };
-  params: ComponentParams;
-}
+type DataSource = {
+  bannerHeading: Field<string>;
+  bannerImage: ImageField;
+  bannerDescription: Field<string>;
+};
 
-export const Default = (props: HeroBannerProps): JSX.Element => {
-  const id = props.params.RenderingIdentifier;
+type pageContextItem = {
+  pageHeading: Field<string>;
+  pageImage: ImageField;
+  pageContent: Field<string>;
+};
 
+type HeroBannerProps = ComponentProps & {
+  fields: {
+    data: {
+      datasource: DataSource;
+      contextItem: pageContextItem;
+    };
+  };
+};
+
+const HeroBannerDefault = (props: HeroBannerProps): JSX.Element => {
+  const { datasource, contextItem } = props.fields.data;
   return (
-    <div className={`component ${props.params.styles}`} id={id ? id : undefined}>
-      <div className="component-content">
-        <p>HeroBanner Component</p>
+    <div className="hero-image">
+      <div className="hero-text">
+        <h1>
+          <Text field={datasource.bannerHeading ?? contextItem.pageHeading} />
+        </h1>
+        <JssRichText field={datasource.bannerDescription ?? contextItem.pageContent} />
+        <NextLink href="/">Explore</NextLink>
       </div>
     </div>
   );
 };
+
+export default withDatasourceCheck()<HeroBannerProps>(HeroBannerDefault);

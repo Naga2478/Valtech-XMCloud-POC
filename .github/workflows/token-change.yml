@@ -12,5 +12,5 @@ jobs:
 
     steps:
       - name: 🎨 Build Tokens
-        working-directory: headapps/nextjs-starter
+        working-directory: ./headapps/nextjs-starter
         run: npm run build:tokens

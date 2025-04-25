@@ -44,7 +44,7 @@
         "type": "spacing"
       },
       "xl": {
-        "value": "{dimension.xl}",
+        "value": "{core.dimension.xl}",
         "type": "spacing"
       },
       "multi-value": {

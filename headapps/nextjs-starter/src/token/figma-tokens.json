@@ -541,7 +541,7 @@
     },
     "fontSizes": {
       "h1": {
-        "value": "roundTo({fontSizes.body}*1.25^5)",
+        "value": "roundTo({core.fontSizes.body}*1.25^5)",
         "type": "fontSizes"
       },
       "h2": {

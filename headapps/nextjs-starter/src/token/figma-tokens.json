@@ -48,7 +48,7 @@
         "type": "spacing"
       },
       "multi-value": {
-        "value": "{core.dimension.sm} {dimension.xl}",
+        "value": "{core.dimension.sm} {core.dimension.xl}",
         "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens",
         "type": "spacing"
       }

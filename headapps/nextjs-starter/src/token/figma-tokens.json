@@ -18,11 +18,11 @@
         "type": "dimension"
       },
       "lg": {
-        "value": "{dimension.md} * {dimension.scale}",
+        "value": "{core.dimension.md} * {core.dimension.scale}",
         "type": "dimension"
       },
       "xl": {
-        "value": "{dimension.lg} * {dimension.scale}",
+        "value": "{core.dimension.lg} * {core.dimension.scale}",
         "type": "dimension"
       }
     },

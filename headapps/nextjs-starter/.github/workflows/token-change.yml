@@ -1,0 +1,15 @@
+name: Build Design Tokens on Change
+
+on:
+  push:
+    paths:
+      - 'src/tokens/**'
+      - 'figma-tokens.json'
+
+jobs:
+  build_tokens:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🎨 Build Tokens
+        run: npm run build:tokens

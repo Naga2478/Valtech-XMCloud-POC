@@ -10,11 +10,11 @@
         "type": "dimension"
       },
       "sm": {
-        "value": "{dimension.xs} * {dimension.scale}",
+        "value": "{core.dimension.xs} * {core.dimension.scale}",
         "type": "dimension"
       },
       "md": {
-        "value": "{dimension.sm} * {dimension.scale}",
+        "value": "{core.dimension.sm} * {core.dimension.scale}",
         "type": "dimension"
       },
       "lg": {

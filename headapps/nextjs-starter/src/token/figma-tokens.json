@@ -32,7 +32,7 @@
         "type": "spacing"
       },
       "sm": {
-        "value": "{dimension.sm}",
+        "value": "{core.dimension.sm}",
         "type": "spacing"
       },
       "md": {

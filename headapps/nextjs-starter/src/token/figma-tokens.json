@@ -40,7 +40,7 @@
         "type": "spacing"
       },
       "lg": {
-        "value": "{dimension.lg}",
+        "value": "{core.dimension.lg}",
         "type": "spacing"
       },
       "xl": {

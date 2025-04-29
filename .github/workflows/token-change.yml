@@ -33,7 +33,7 @@ jobs:
         working-directory: headapps/nextjs-starter
 
       - name: 🚀 Push Changes
-        run: git push -u origin "$BRANCH_NAME"
+        run: git push -u origin $BRANCH_NAME
         working-directory: headapps/nextjs-starter
         env:
           BRANCH_NAME: ${{ env.BRANCH_NAME }}

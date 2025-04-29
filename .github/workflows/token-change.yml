@@ -33,7 +33,7 @@ jobs:
         working-directory: headapps/nextjs-starter
 
       - name: 🚀 Push Changes
-        run: git push origin ${{ env.BRANCH_NAME }}
+        run: git push origin $BRANCH_NAME
         working-directory: headapps/nextjs-starter
 
       - name: 📬 Create Pull Request
@@ -41,7 +41,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: update design tokens
-          branch: ${{ env.BRANCH_NAME }}
+          branch: $BRANCH_NAME
           title: 'Update design tokens'
           body: 'This PR includes updates to design tokens triggered by recent changes.'
           base: design-system-poc

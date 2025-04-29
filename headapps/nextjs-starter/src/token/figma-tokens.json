@@ -59,7 +59,7 @@
         "type": "borderRadius"
       },
       "lg": {
-        "value": "8",
+        "value": "5",
         "type": "borderRadius"
       },
       "xl": {

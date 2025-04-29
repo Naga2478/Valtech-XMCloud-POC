@@ -14,7 +14,7 @@
         "type": "dimension"
       },
       "md": {
-        "value": "{dimension.sm} * {core.dimension.scale}",
+        "value": "{core.dimension.sm} * {core.dimension.scale}",
         "type": "dimension"
       },
       "lg": {

@@ -14,7 +14,7 @@
         "type": "dimension"
       },
       "md": {
-        "value": "{core.dimension.sm} * {core.dimension.scale}",
+        "value": "{dimension.sm} * {core.dimension.scale}",
         "type": "dimension"
       },
       "lg": {
@@ -577,5 +577,11 @@
         "type": "fontSizes"
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core"
+    ]
   }
 }

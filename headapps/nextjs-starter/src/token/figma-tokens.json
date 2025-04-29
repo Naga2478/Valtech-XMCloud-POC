@@ -55,7 +55,7 @@
     },
     "borderRadius": {
       "sm": {
-        "value": "5",
+        "value": "2",
         "type": "borderRadius"
       },
       "lg": {

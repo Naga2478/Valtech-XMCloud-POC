@@ -9,6 +9,9 @@ on:
 jobs:
   build_tokens:
     runs-on: ubuntu-latest
+    env:
+      WORKING_DIR: headapps/nextjs-starter
+      BRANCH_NAME: token-update-$(date +%s)
 
     steps:
       - name: ✅ Checkout Code
@@ -16,30 +19,35 @@ jobs:
 
       - name: 📦 Install Dependencies
         run: npm install
-        working-directory: headapps/nextjs-starter
+        working-directory: ${{ env.WORKING_DIR }}
 
       - name: 🎨 Build Tokens
         run: npm run build:tokens
-        working-directory: headapps/nextjs-starter
+        working-directory: ${{ env.WORKING_DIR }}
 
       - name: 📂 Commit Changes
+        id: commit
         run: |
-          BRANCH_NAME=token-update-$(date +%s)
-          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b $BRANCH_NAME
+          git checkout -b ${{ env.BRANCH_NAME }}
           git add .
-          git diff --cached --quiet || git commit -m "chore: update design tokens"
-        working-directory: headapps/nextjs-starter
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "commit_needed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "chore: update design tokens"
+            echo "commit_needed=true" >> $GITHUB_OUTPUT
+          fi
+        working-directory: ${{ env.WORKING_DIR }}
 
       - name: 🚀 Push Changes
+        if: steps.commit.outputs.commit_needed == 'true'
         run: git push -u origin ${{ env.BRANCH_NAME }}
-        working-directory: headapps/nextjs-starter
-        env:
-          BRANCH_NAME: ${{ env.BRANCH_NAME }}
+        working-directory: ${{ env.WORKING_DIR }}
 
       - name: 📬 Create Pull Request
+        if: steps.commit.outputs.commit_needed == 'true'
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -48,3 +56,4 @@ jobs:
           title: 'Update design tokens'
           body: 'This PR includes updates to design tokens triggered by recent changes.'
           base: design-system-poc
+          delete-branch: true

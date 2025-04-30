@@ -63,7 +63,7 @@
         "type": "borderRadius"
       },
       "xl": {
-        "value": "8",
+        "value": "16",
         "type": "borderRadius"
       },
       "multi-value": {

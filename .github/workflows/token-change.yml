@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       WORKING_DIR: headapps/nextjs-starter
-      BRANCH_NAME: token-update-$(date +%s)
 
     steps:
       - name: ✅ Checkout Code
@@ -28,6 +27,8 @@ jobs:
       - name: 📂 Commit Changes
         id: commit
         run: |
+          BRANCH_NAME=token-update-$(date +%s)
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b ${{ env.BRANCH_NAME }}

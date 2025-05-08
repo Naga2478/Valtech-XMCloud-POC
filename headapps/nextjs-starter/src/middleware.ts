@@ -3,6 +3,7 @@ import middleware from 'lib/middleware';
 
 // eslint-disable-next-line
 export default async function (req: NextRequest, ev: NextFetchEvent) {
+  console.log('Detected locale:', req.nextUrl.locale);
   return middleware(req, ev);
 }
 

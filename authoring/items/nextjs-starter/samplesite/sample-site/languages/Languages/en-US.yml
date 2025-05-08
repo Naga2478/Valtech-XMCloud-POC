@@ -16,6 +16,9 @@ SharedFields:
 - ID: "8728d8ff-66d9-40c2-8b34-c4fc1466942e"
   Hint: Encoding
   Value: "utf-8"
+- ID: "892975ac-496f-4ac9-8826-087095c68e1d"
+  Hint: Fallback Language
+  Value: en
 - ID: "990596ce-0024-43f3-bf4c-a991bfa69b45"
   Hint: Code page
   Value: 65001
@@ -24,7 +27,7 @@ SharedFields:
   Value: en
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "694f815b-ba32-4f47-ba63-01f8032ff1e1"
+  Value: "bf753cbd-cdf4-41ac-a1e3-711fc7211408"
 Languages:
 - Language: en
   Fields:
@@ -47,11 +50,11 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5c3cd547-5ad0-486d-aafd-02036000b251"
+      Value: "6a2f7671-9ddf-46d7-9500-693a96cda28e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\nagaraju.chatta@valtech.com
+        sitecore\udit.gupta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250425T050526Z
+      Value: 20250506T095847Z

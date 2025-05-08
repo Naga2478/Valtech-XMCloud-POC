@@ -87,7 +87,7 @@ Languages:
       Value: 20250416T102058Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Home
+      Value: Home1
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -101,14 +101,14 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bf6a8e24-a881-443c-a500-75b7baac23b5"
+      Value: "011f070e-3e57-4ad4-b79d-e33e46acc97e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\nagaraju.chatta@valtech.com
+        sitecore\udit.gupta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250424T041845Z
+      Value: 20250502T094232Z
 - Language: "en-GB"
   Versions:
   - Version: 1

@@ -8,7 +8,7 @@ const publicUrl = jssConfig.publicUrl;
  */
 const nextConfig = {
   // Set assetPrefix to our public URL
-  assetPrefix: publicUrl,
+  assetPrefix: undefined,
 
   // Allow specifying a distinct distDir when concurrently running app in a container
   distDir: process.env.NEXTJS_DIST_DIR || '.next',
@@ -17,14 +17,15 @@ const nextConfig = {
   env: {
     PUBLIC_URL: publicUrl,
   },
-
+ 
   i18n: {
     // These are all the locales you want to support in your application.
     // These should generally match (or at least be a subset of) those in Sitecore.
-    locales: ['en'],
+    locales: ['en', 'en-us', 'en-gb'],
     // This is the locale that will be used when visiting a non-locale
     // prefixed path e.g. `/styleguide`.
     defaultLocale: jssConfig.defaultLanguage,
+    localeDetection: false,
   },
 
   // Enable React Strict Mode
@@ -37,6 +38,7 @@ const nextConfig = {
   // can be served from the Next.js Image Optimization API
   // see https://nextjs.org/docs/app/api-reference/components/image#remotepatterns
   images: {
+    //domains: ['xmcloudcm.localhost','nextjs.xmc-starter-js.localhost','sitea.localhost','siteb.localhost'],
     remotePatterns: [
       {
         protocol: 'https',

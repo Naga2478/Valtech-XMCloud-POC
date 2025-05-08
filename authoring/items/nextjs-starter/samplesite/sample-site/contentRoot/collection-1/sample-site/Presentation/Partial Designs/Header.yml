@@ -11,7 +11,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{1934DEA7-7D14-430E-928E-0AF38F67A7F5}" />
+    <image mediaid="{96A3B03A-A194-4DBF-9451-61F2F43F2808}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8d4b36fa-a5ec-4a82-a6e8-c308ca5a4ff8"
@@ -76,14 +76,14 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ea020060-3dba-41be-b459-3a3c4667954f"
+      Value: "0c82a3f7-fc31-4ceb-a58a-94c3af8025de"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\nagaraju.chatta@valtech.com
+        sitecore\udit.gupta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250425T050643Z
+      Value: 20250502T094232Z
 - Language: "en-GB"
   Versions:
   - Version: 1
@@ -116,14 +116,14 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e5a95186-34b6-483e-bc0c-1ba192a193ef"
+      Value: "0574ea43-491e-44d9-b2ce-210374cb545f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\nagaraju.chatta@valtech.com
+        sitecore\udit.gupta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250425T050643Z
+      Value: 20250502T094232Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -156,11 +156,11 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b023eb15-00c4-4aea-9ed3-405864e12026"
+      Value: "9a4d1e8d-a694-466e-805f-1ea68655438f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\nagaraju.chatta@valtech.com
+        sitecore\udit.gupta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250425T050702Z
+      Value: 20250502T094232Z

@@ -27,7 +27,7 @@ SharedFields:
     {BEA9C1CA-AD04-4B76-AF66-1B5DE236567E}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{AF5706E9-C0E4-44A3-B7EF-FFCDA24C2655}"
+  Value: "{DA62D8B4-D4E9-433C-8BF2-DC85A2E07916}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{549B8018-B2B7-4515-BA86-FA8D17040CB4}"
@@ -36,7 +36,7 @@ SharedFields:
   Value: Sample Site
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "5da22caf-e5e0-4a67-95cb-3d9dad399a12"
+  Value: "15939ccb-0b62-4d7d-b130-bafcd287ee87"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{5AAE1EEA-EA24-40BF-96F1-1F43DA82C77B}"
@@ -61,14 +61,14 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1906739f-bc95-4a3b-83e3-fc1cd136c1e4"
+      Value: "8f09897f-56b7-4816-8941-313a062f9afc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rutvik.pankhania@valtech.com
+        sitecore\Anonymous
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250417T125910Z
+      Value: 20250505T153058Z
 - Language: "en-GB"
   Versions:
   - Version: 1

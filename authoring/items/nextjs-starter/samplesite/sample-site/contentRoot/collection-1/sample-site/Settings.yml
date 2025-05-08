@@ -22,7 +22,7 @@ SharedFields:
   Value: "{2BD1EA6D-58AD-40D8-8CE4-13CF6C26D996}"
 - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
   Hint: Name
-  Value: "sample-site"
+  Value: "nextjs-starter"
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
   Value: "{ECE69DFA-8152-4A8F-887A-C8512570C89D}"
@@ -32,6 +32,9 @@ SharedFields:
 - ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
   Hint: FilesystemPath
   Value: "/dist/sample-site"
+- ID: "797d2f63-d5c4-4c4c-b21f-d3e250e2ab12"
+  Hint: DeploymentSecret
+  Value: kgcc8nxxny5pu0eyi3wdhtdhsnglg561jr230kjd65
 - ID: "9016141c-ff51-40f2-9135-40f5161b9784"
   Hint: ServerSideRenderingEngine
   Value: http
@@ -52,7 +55,7 @@ SharedFields:
   Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}|{A31CD246-7FC2-46D2-9DCE-CCE3B32604EB}|{C0838FD5-FA5B-4803-8D7D-0A5403D489C6}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "6bdafec8-1808-4a1f-9ada-597266658a6f"
+  Value: "1533bb87-0479-4a31-a992-4d5ff6d27c71"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
   Value: "{0EB5ADB7-86AB-482C-91F9-D57F0BDECAB8}"
@@ -80,17 +83,17 @@ Languages:
         sitecore\nagaraju.chatta@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "119ab235-99bc-4301-9823-825446160098"
+      Value: "429bfb26-0de3-4eec-a60d-6d6596f285d8"
     - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
       Hint: ComponentDataSourceTemplates
       Value: "{19C3CB7F-CB05-4D8F-820D-AE1983A62246}"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\nagaraju.chatta@valtech.com
+        sitecore\udit.gupta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250424T055622Z
+      Value: 20250506T073303Z
 - Language: "en-GB"
   Versions:
   - Version: 1

@@ -1,0 +1,26 @@
+﻿---
+ID: "c3bfbdc3-71fe-41ed-81e6-2885fafb1655"
+Parent: "b7347825-e195-41b7-b2eb-83e5aba08bcb"
+Template: "b935286c-2bd7-4408-96da-c484c8802c65"
+Path: "/sitecore/content/collection-1/sample-site/Data/Product Categories/Retail"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "034757d1-8a96-4066-991e-41ef78b0af49"
+      Hint: Label
+      Value: Retail
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250430T050511Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9726b13-f3cc-47cb-ad6f-59b4dd0d2633"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250430T050511Z

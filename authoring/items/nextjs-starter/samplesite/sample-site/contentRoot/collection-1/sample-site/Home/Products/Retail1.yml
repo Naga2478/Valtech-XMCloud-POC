@@ -1,0 +1,51 @@
+﻿---
+ID: "a136f036-2a92-4040-8647-6889ac275bd0"
+Parent: "8e895dcd-724e-410a-96cf-53d9f31398ba"
+Template: "d9ea0f3e-127d-423b-9057-a8c8aa7598b5"
+Path: "/sitecore/content/collection-1/sample-site/Home/Products/Retail1"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{36915F59-513F-4B59-991F-3EEBCDF90D20}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250430T050604Z
+    - ID: "358687d1-a33b-4678-8e78-c345c75b64b0"
+      Hint: Product Description
+      Value: proec description descript proec description descriptproec description descriptproec description descript
+    - ID: "43de885d-e87e-42ee-bad0-f94967a57f47"
+      Hint: Product Heading
+      Value: Retail1
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Retail1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "6ddea92c-447e-45ba-810a-b0c67785cc52"
+      Hint: Title
+      Value: Retail1
+    - ID: "700c1eb0-5800-44b2-80e6-574a2e8a3fba"
+      Hint: Product Category
+      Value: "{C3BFBDC3-71FE-41ED-81E6-2885FAFB1655}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e06f5fd-9252-4753-9ca3-c0cee11e9de0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250430T052202Z

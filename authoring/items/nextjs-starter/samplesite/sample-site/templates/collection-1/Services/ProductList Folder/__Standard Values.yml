@@ -1,0 +1,36 @@
+﻿---
+ID: "0771cf25-56bb-4af2-8e9d-5c4b8315d414"
+Parent: "f11485bc-defd-4724-b86b-f83ca3c771e3"
+Template: "f11485bc-defd-4724-b86b-f83ca3c771e3"
+Path: "/sitecore/templates/Project/collection-1/Services/ProductList Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B31FE413-B926-4208-857D-2BAEA3958B02}
+    {F11485BC-DEFD-4724-B86B-F83CA3C771E3}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7521a3a6-eeec-4411-b90d-51cdc6e894be"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "748f9c50-d08c-4ed5-b56c-f745116bca12"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250430T045946Z

@@ -10,9 +10,11 @@ SharedFields:
   Value: |
     {61A80A30-AB75-444C-8A21-73D3217D6D52}
     {6F152221-475B-45D1-817D-3F301A9F77B0}
+    {296D836D-726F-477A-A1B4-F5E25D3D222C}
+    {409F91AF-6C4D-4D94-ADC9-3C2593EC04FB}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "3a80cfaf-d245-46b8-9753-4546d02fc632"
+  Value: "62ec4ead-fcaa-45ff-865e-4efb0e98a161"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{0B2EB1AC-1B6D-4D7E-95CB-E39C8B4E9A57}"
@@ -34,14 +36,14 @@ Languages:
         sitecore\rutvik.pankhania@valtech.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a180b1a0-3af1-49d0-a048-74b0fa91847c"
+      Value: "322a383b-1354-41fa-a159-4e67e314e28d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250424T045534Z
+      Value: 20250430T051243Z
 - Language: "en-GB"
   Versions:
   - Version: 1

@@ -1,8 +1,8 @@
 ﻿---
-ID: "3a5b6759-d07f-4afa-956a-7e9c97586c1b"
+ID: "648f8870-de3b-4457-8c57-644ec8ff742d"
 Parent: "d910f4bf-8b08-4ac8-934c-b924b7cba2d6"
-Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: "/sitecore/content/collection-1/sample-site/Home/Test Lab/Data/Text 1"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: "/sitecore/content/collection-1/sample-site/Home/Test Lab/Data/Image 1"
 Languages:
 - Language: en
   Versions:
@@ -13,26 +13,26 @@ Languages:
       Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250425T072459Z
+      Value: 20250425T072822Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\aswathi.a@valtech.com
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="e67c57c5-7003-413e-86a5-4318e73773e5" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\aswathi.a@valtech.com
-    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
-      Hint: Text
-      Value: |
-        <h2 class="rte-align-center"><strong style="color: rgb(0, 0, 0);">Test Lab 1</strong></h2>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b31add0b-c268-4771-b417-c04eeb996fc7"
+      Value: "9d0ed214-9117-4f2e-bd2b-58d07993f883"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\aswathi.a@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250425T084911Z
+      Value: 20250425T073317Z

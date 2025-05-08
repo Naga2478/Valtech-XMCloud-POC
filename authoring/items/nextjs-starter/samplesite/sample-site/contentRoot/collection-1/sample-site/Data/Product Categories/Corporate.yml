@@ -1,0 +1,26 @@
+﻿---
+ID: "446903c6-4b5d-4f1a-99c9-3ef3de273168"
+Parent: "b7347825-e195-41b7-b2eb-83e5aba08bcb"
+Template: "b935286c-2bd7-4408-96da-c484c8802c65"
+Path: "/sitecore/content/collection-1/sample-site/Data/Product Categories/Corporate"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "034757d1-8a96-4066-991e-41ef78b0af49"
+      Hint: Label
+      Value: Corporate
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250430T050518Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59207372-8fcf-4ce4-8049-07a8cc07c19a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nagaraju.chatta@valtech.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250430T050518Z

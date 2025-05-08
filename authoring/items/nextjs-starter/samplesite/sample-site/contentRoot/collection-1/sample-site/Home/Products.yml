@@ -4,6 +4,12 @@ Parent: "00d31fc1-485a-44b7-acf5-a0d0f463e254"
 Template: "c95e9939-43a0-4c23-a382-ccb292147477"
 Path: "/sitecore/content/collection-1/sample-site/Home/Products"
 SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {D9EA0F3E-127D-423B-9057-A8C8AA7598B5}
+    {C95E9939-43A0-4C23-A382-CCB292147477}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 600
@@ -13,7 +19,7 @@ SharedFields:
     <image mediaid="{45F2A546-48DD-4288-AE16-78FC260FD39D}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c8914ace-a942-4863-87e2-66854fa8aae6"
+  Value: "b5341237-1ac4-4ffa-83d2-12ee58e54f89"
 Languages:
 - Language: en
   Versions:
@@ -73,14 +79,14 @@ Languages:
       Value: Products
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5f4fcf09-fe5c-4d0e-bc11-b09ae24e2040"
+      Value: "de0d33c8-ad52-4c08-982b-ad0b1b71c687"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nagaraju.chatta@valtech.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250424T043622Z
+      Value: 20250430T050839Z
 - Language: "en-GB"
   Versions:
   - Version: 1
